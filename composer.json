@@ -1,0 +1,16 @@
+{
+    "name": "pedro/desafio",
+    "description": "O presente desafio tem como objetivo a realização de uma venda e consultada mesma utilizando a API PHP Cielo 3.0",
+    "type": "project",
+    "require": {
+        "php": ">=5.2.8",
+        "developercielo/api-3.0-php": "^1.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Reis",
+            "email": "pedrohsreis@gmail.com"
+        }
+    ]
+}
